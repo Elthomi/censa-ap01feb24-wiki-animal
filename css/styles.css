@@ -1,0 +1,27 @@
+body{
+    background-image:url(https://img.freepik.com/vector-gratis/camping-naturaleza_1308-23189.jpg?semt=ais_hybrid);
+    backdrop-filter: blur(5px);
+    margin: 0%;
+    padding: 0;
+    text-align: center;
+    
+}
+
+header {
+    background-color: rgb(192, 165, 145);
+    color: floralwhite;
+    padding: 5px;
+    img{
+        border-radius: 50px;
+    }
+}
+
+
+
+h1{
+    font-weight: bold;
+}
+
+p{
+    font-weight: bold;
+}
